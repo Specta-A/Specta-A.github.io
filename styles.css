@@ -1,0 +1,50 @@
+body {
+  background: url('/Volumes/Extreme SSD/FrauenLoop/projects/project01.3_coffeeshop/images/processespresso_2400x1600_dustybright.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e6e6e6;
+  opacity: 0.61;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  color: #006e8c;
+
+}
+
+li a:hover {
+  background-color: #ffffff;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-size: 68px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #006e8c !important;
+    border: none;
+    opacity: 0.61; 
+}
