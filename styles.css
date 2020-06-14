@@ -1,5 +1,5 @@
 body {
-  background: url('/Volumes/Extreme SSD/FrauenLoop/projects/project01.3_coffeeshop/images/processespresso_2400x1600_dustybright.jpg');
+  background: url('/Volumes/Extreme SSD/github/Specta-A.github.io/images/processespresso_2400x1600_dustybright.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -46,5 +46,5 @@ h1 {
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #006e8c !important;
     border: none;
-    opacity: 0.61; 
+    opacity: 0.61;
 }
