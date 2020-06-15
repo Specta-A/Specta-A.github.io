@@ -41,6 +41,13 @@ h1 {
   font-family: 'Bebas Neue', cursive;
   color: white;
   font-size: 68px;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-right: 0px;
+  margin-left: 80px;
+  background-color: #006e8c;
+  opacity: 0.61;
 }
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
