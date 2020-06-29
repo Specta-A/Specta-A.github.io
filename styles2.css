@@ -1,0 +1,68 @@
+#homepage {
+    background: url('/Volumes/Extreme SSD/github/Specta-A.github.io/images/processespresso_2400x1600_dustybright.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#ourcafe {
+    background: url('/Volumes/Extreme SSD/FrauenLoop/projects/project01_coffeeshop/roman-bozhko-OXXsAafHDeo-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.61;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e6e6e6;
+  opacity: 0.61;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  color: #006e8c;
+
+}
+
+li a:hover {
+  background-color: #ffffff;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+.col-6 {
+    margin-top: 400px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 50%;
+}
+
+.maintitles {
+    font-family: 'Bebas Neue', cursive;
+    color: #ffffff;
+    font-size: 200px !important;
+    text-align: center;
+}
+
+.dash {
+    border: 5px solid white;
+    width: 100%;
+    height: 10px;
+    margin-left: 0%;
+    margin-right: 10%;
+}
